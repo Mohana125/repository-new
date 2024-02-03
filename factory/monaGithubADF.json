@@ -1,0 +1,9 @@
+{
+	"name": "monaGithubADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98d6a065-e106-473a-b82d-74cb934ab4f7",
+		"tenantId": "b8cb205e-df60-4c79-ab0c-c8d29fac7943"
+	}
+}
